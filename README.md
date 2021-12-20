@@ -12,4 +12,3 @@ WorldReset을 세계를 직접 불러왔기 때문에
 이렇게 4개의 월드가 존재해야 플러그인 작동 
 
 ---
-# github-push-test

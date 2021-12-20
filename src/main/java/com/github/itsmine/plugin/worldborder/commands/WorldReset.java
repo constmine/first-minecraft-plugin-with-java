@@ -70,6 +70,7 @@ public class WorldReset implements CommandExecutor, TabCompleter {
             if(unloadWorld(newWorld)) {
                 copyWorld(copyworld, "newWorld");
             }
+
         }
 
         return false;

@@ -1,0 +1,17 @@
+name: WorldBorder
+version: '${project.version}'
+main: com.github.itsmine.plugin.worldborder.WorldBorder
+api-version: 1.17
+authors: [ Itsmine ]
+description: WorldBorder를 자기장처럼 사용.
+
+commands:
+  mf:
+    description: "Magnetic Field 생성"
+    aliases:
+      - magneticfield
+  wr:
+    aliases:
+      - worldreset
+      - worldbackup
+  return:
